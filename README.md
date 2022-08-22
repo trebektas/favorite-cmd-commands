@@ -1,5 +1,12 @@
 # favorite-cmd-commands
 
+- [cd](#1-cd)
+- [code](#2-code)
+- [git init](#3-git-init)
+- [git add](#4-git-add)
+- [git commit](#5-git-commit)
+- [git push](#6-git-push)
+
 ### 1. cd
 
 *cd is a command to change directory*
@@ -52,3 +59,7 @@ Usage:
 Usage: 
     
     git push [variable name] [branch]
+
+
+
+Clicking [this link](#favorite-cmd-commands) will go to top
