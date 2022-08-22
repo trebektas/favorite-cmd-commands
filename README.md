@@ -7,6 +7,7 @@
 - [git commit](#5-git-commit)
 - [git push](#6-git-push)
 
+***
 ### 1. cd
 
 *cd is a command to change directory*
@@ -61,5 +62,5 @@ Usage:
     git push [variable name] [branch]
 
 
-
-Clicking [this link](#favorite-cmd-commands) will go to top
+***
+*Clicking [this link](#favorite-cmd-commands) will go to top*
